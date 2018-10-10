@@ -1,0 +1,10 @@
+.intro{
+  font-family: monospace;
+  background-color: purple;
+  font-kerning: auto;
+}
+.outtro{
+  background-color: green;
+  color: white;
+  font-stretch: ultra-expanded;
+}
