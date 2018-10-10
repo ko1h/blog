@@ -2,9 +2,21 @@
   font-family: monospace;
   background-color: purple;
   font-kerning: auto;
+  width: 300px;
+  float: left;
+  margin: 15px;
 }
-.outtro{
-  background-color: green;
-  color: white;
-  font-stretch: ultra-expanded;
+
+.intro img {
+  margin: 10px;
+}
+
+img{
+  float: right;
+}
+h2{
+  text-align: center;
+}
+body{
+  background-image: url("backgraound.jpeg");
 }
